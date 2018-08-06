@@ -3,6 +3,7 @@ layout: post
 title:  "An Argument Against Logical Reasons"
 date:   2018-08-05 18:46:24 -0600
 categories: philosophy metaphysics
+comments: true
 ---
 This blog post encapsulates some of my thoughts on the nature of the
 metaphysical world, also known as what is "outside" the universe.  
