@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,7 +73,7 @@
            height="105.05586"
            x="74.751289"
            y="97.441765" /></flowRegion><flowPara
-         id="flowPara887"></flowPara></flowRoot>    <text
+         id="flowPara887" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26794717"
        x="17.770012"
@@ -215,14 +215,9 @@
        y="29.472437"
        id="text973"><tspan
          sodipodi:role="line"
+         id="tspan862"
          x="259.25134"
-         y="29.472437"
-         id="tspan971"
-         style="stroke-width:0.26458332"><tspan
-           x="259.25134"
-           y="29.472437"
-           id="tspan969"
-           style="stroke-width:0.26458332">R1</tspan></tspan></text>
+         y="29.472437">R₁</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -230,14 +225,9 @@
        y="75.977608"
        id="text997"><tspan
          sodipodi:role="line"
+         id="tspan866"
          x="238.40457"
-         y="75.977608"
-         id="tspan995"
-         style="stroke-width:0.26458332"><tspan
-           x="238.40457"
-           y="75.977608"
-           id="tspan993"
-           style="stroke-width:0.26458332">R2</tspan></tspan></text>
+         y="75.977608">R₂</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -245,14 +235,7 @@
        y="136.38013"
        id="text1017"><tspan
          sodipodi:role="line"
-         x="223.97186"
-         y="136.38013"
-         id="tspan1015"
-         style="stroke-width:0.26458332"><tspan
-           x="223.97186"
-           y="136.38013"
-           id="tspan1013"
-           style="stroke-width:0.26458332">R3</tspan></tspan></text>
+         id="tspan868">R₃</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
