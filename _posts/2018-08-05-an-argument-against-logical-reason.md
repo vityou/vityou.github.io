@@ -5,7 +5,7 @@ date:   2018-08-05
 categories: philosophy metaphysics
 comments: true
 ---
-This blog post encapsulates some of my thoughts on the nature of the metaphysical world, also known as what is "outside" the universe.  These ideas are by no means new, and I don't claim to have independently come up with them.
+This post encapsulates some of my thoughts on the nature of the metaphysical world, also known as what is "outside" the universe.  These ideas are by no means new, and I don't claim to have independently come up with them.
 
 I would like to start off by assuming that everything must have a reason, and point out the illogicality that results.  I will list the premises of the argument and its conclusion, and go into more detail on each:
 
