@@ -1,255 +1,51 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="300mm"
-   height="300mm"
-   viewBox="0 0 300 300"
-   version="1.1"
-   id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="reason-flow.svg">
-  <defs
-     id="defs2" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="568.12575"
-     inkscape:cy="648.97352"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata5">
+<svg height="300mm" id="svg8" version="1.1" viewBox="0 0 300 300" width="300mm" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <metadata id="metadata5">
     <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+      <cc:Work>
+        <dc:format>
+          image/svg+xml
+        </dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,3)">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98522171"
-       id="rect879"
-       width="286.50595"
-       height="278.19049"
-       x="7.5595236"
-       y="8.9821444"
-       rx="4.7624998"
-       ry="5.5278864" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot881"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,-3)"><flowRegion
-         id="flowRegion883"><rect
-           id="rect885"
-           width="464.67017"
-           height="105.05586"
-           x="74.751289"
-           y="97.441765" /></flowRegion><flowPara
-         id="flowPara887" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26794717"
-       x="17.770012"
-       y="28.784641"
-       id="text891"
-       transform="scale(0.99309616,1.0069518)"><tspan
-         sodipodi:role="line"
-         id="tspan893"
-         x="17.770012"
-         y="28.784641"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333397px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26794717">I bought this ice cream because </tspan><tspan
-         sodipodi:role="line"
-         id="tspan895"
-         x="17.770012"
-         y="42.013809"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333397px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26794717">it tastes good</tspan></text>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98522171"
-       id="rect897"
-       width="258.71689"
-       height="217.02286"
-       x="19.777945"
-       y="54.853809"
-       rx="4.7624998"
-       ry="5.5278864" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="31.003273"
-       y="77.046272"
-       id="text991"><tspan
-         sodipodi:role="line"
-         x="31.003273"
-         y="77.046272"
-         id="tspan979"
-         style="stroke-width:0.26458332"><tspan
-           x="31.003273"
-           y="77.046272"
-           id="tspan975"
-           style="stroke-width:0.26458332">It tastes good because my </tspan><tspan
-           dx="0"
-           x="196.53322"
-           y="77.046272"
-           id="tspan977"
-           style="stroke-width:0.26458332" /></tspan><tspan
-         sodipodi:role="line"
-         x="31.003273"
-         y="90.275444"
-         id="tspan985"
-         style="stroke-width:0.26458332"><tspan
-           x="31.003273"
-           y="90.275444"
-           id="tspan981"
-           style="stroke-width:0.26458332">taste buds make my brain </tspan><tspan
-           dx="0"
-           x="190.16669"
-           y="90.275444"
-           id="tspan983"
-           style="stroke-width:0.26458332" /></tspan><tspan
-         sodipodi:role="line"
-         x="31.003273"
-         y="103.50461"
-         id="tspan989"
-         style="stroke-width:0.26458332"><tspan
-           x="31.003273"
-           y="103.50461"
-           id="tspan987"
-           style="stroke-width:0.26458332">release dopamine</tspan></tspan></text>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98522171"
-       id="rect911"
-       width="227.17909"
-       height="139.51469"
-       x="34.210499"
-       y="114.72218"
-       rx="4.7624998"
-       ry="5.5278864" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="47.573841"
-       y="135.31145"
-       id="text1011"><tspan
-         sodipodi:role="line"
-         x="47.573841"
-         y="135.31145"
-         id="tspan1001"
-         style="stroke-width:0.26458332"><tspan
-           x="47.573841"
-           y="135.31145"
-           id="tspan999"
-           style="stroke-width:0.26458332">It activates my reward </tspan></tspan><tspan
-         sodipodi:role="line"
-         x="47.573841"
-         y="148.54062"
-         id="tspan1005"
-         style="stroke-width:0.26458332"><tspan
-           x="47.573841"
-           y="148.54062"
-           id="tspan1003"
-           style="stroke-width:0.26458332">center because the </tspan></tspan><tspan
-         sodipodi:role="line"
-         x="47.573841"
-         y="161.76979"
-         id="tspan1009"
-         style="stroke-width:0.26458332"><tspan
-           x="47.573841"
-           y="161.76979"
-           id="tspan1007"
-           style="stroke-width:0.26458332">electrical... </tspan></tspan></text>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.56500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98522171"
-       id="rect921"
-       width="189.76137"
-       height="67.886459"
-       x="52.384827"
-       y="172.45241"
-       rx="4.7624998"
-       ry="5.5278864" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="64.14492"
-       y="194.11044"
-       id="text1023"><tspan
-         sodipodi:role="line"
-         x="64.14492"
-         y="194.11044"
-         id="tspan1021"
-         style="stroke-width:0.26458332"><tspan
-           x="64.14492"
-           y="194.11044"
-           id="tspan1019"
-           style="stroke-width:0.26458332">...</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="259.25134"
-       y="29.472437"
-       id="text973"><tspan
-         sodipodi:role="line"
-         id="tspan862"
-         x="259.25134"
-         y="29.472437">R₁</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="238.40457"
-       y="75.977608"
-       id="text997"><tspan
-         sodipodi:role="line"
-         id="tspan866"
-         x="238.40457"
-         y="75.977608">R₂</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="223.97186"
-       y="136.38013"
-       id="text1017"><tspan
-         sodipodi:role="line"
-         id="tspan868">R₃</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="200.98669"
-       y="192.50693"
-       id="text1029"><tspan
-         sodipodi:role="line"
-         x="200.98669"
-         y="192.50693"
-         id="tspan1027"
-         style="stroke-width:0.26458332"><tspan
-           x="200.98669"
-           y="192.50693"
-           id="tspan1025"
-           style="stroke-width:0.26458332">R...</tspan></tspan></text>
+  <g fill-opacity="1" id="layer1" transform="translate(0 3)">
+    <rect fill="#fff" height="278.2" id="rect879" rx="4.8" ry="5.5" stroke="#000" stroke-miterlimit="4" stroke-opacity="1" stroke-width="6.6" width="286.5" x="7.6" y="9"/>
+    <flowRoot fill="#000" font-family="DejaVu Sans Mono" font-size="40" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="700" id="flowRoot881" letter-spacing="0" stroke="none" style="-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25;text-align:start" text-anchor="start" transform="translate(0 -3) scale(.26458)" word-spacing="0" writing-mode="lr-tb" xml:space="preserve">
+      <flowRegion id="flowRegion883">
+        <rect height="105.1" id="rect885" width="464.7" x="74.8" y="97.4"/>
+      </flowRegion>
+      <flowPara id="flowPara887"/>
+    </flowRoot>
+    <text fill="#000" font-family="DejaVu Sans Mono" font-size="10.6" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="700" id="text891" letter-spacing="0" stroke="none" stroke-width=".3" style="-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25;text-align:start" text-anchor="start" transform="scale(.9931 1.00695)" word-spacing="0" writing-mode="lr-tb" x="17.8" xml:space="preserve" y="28.8">
+      <tspan font-family="DejaVu Sans Mono" font-size="10.6" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="700" id="tspan893" stroke-width=".3" style="-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;text-align:start" text-anchor="start" writing-mode="lr-tb" x="17.8" y="28.8">I bought this ice cream because </tspan><tspan font-family="DejaVu Sans Mono" font-size="10.6" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="700" id="tspan895" stroke-width=".3" style="-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;text-align:start" text-anchor="start" writing-mode="lr-tb" x="17.8" y="42">it tastes good</tspan>
+    </text>
+    <rect fill="#fff" height="217" id="rect897" rx="4.8" ry="5.5" stroke="#000" stroke-miterlimit="4" stroke-opacity="1" stroke-width="6.6" width="258.7" x="19.8" y="54.9"/>
+    <text fill="#000" font-family="DejaVu Sans Mono" font-size="10.6" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="700" id="text991" letter-spacing="0" stroke="none" stroke-width=".3" style="-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25;text-align:start" text-anchor="start" word-spacing="0" writing-mode="lr-tb" x="31" xml:space="preserve" y="77">
+      <tspan id="tspan979" stroke-width=".3" x="31" y="77"><tspan id="tspan975" stroke-width=".3" x="31" y="77">It tastes good because my </tspan></tspan><tspan id="tspan985" stroke-width=".3" x="31" y="90.3"><tspan id="tspan981" stroke-width=".3" x="31" y="90.3">taste buds make my brain </tspan></tspan><tspan id="tspan989" stroke-width=".3" x="31" y="103.5"><tspan id="tspan987" stroke-width=".3" x="31" y="103.5">release dopamine</tspan></tspan>
+    </text>
+    <rect fill="#fff" height="139.5" id="rect911" rx="4.8" ry="5.5" stroke="#000" stroke-miterlimit="4" stroke-opacity="1" stroke-width="6.6" width="227.2" x="34.2" y="114.7"/>
+    <text fill="#000" font-family="DejaVu Sans Mono" font-size="10.6" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="700" id="text1011" letter-spacing="0" stroke="none" stroke-width=".3" style="-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25;text-align:start" text-anchor="start" word-spacing="0" writing-mode="lr-tb" x="47.6" xml:space="preserve" y="135.3">
+      <tspan id="tspan1001" stroke-width=".3" x="47.6" y="135.3"><tspan id="tspan999" stroke-width=".3" x="47.6" y="135.3">It activates my reward </tspan></tspan><tspan id="tspan1005" stroke-width=".3" x="47.6" y="148.5"><tspan id="tspan1003" stroke-width=".3" x="47.6" y="148.5">center because the </tspan></tspan><tspan id="tspan1009" stroke-width=".3" x="47.6" y="161.8"><tspan id="tspan1007" stroke-width=".3" x="47.6" y="161.8">electrical...</tspan></tspan>
+    </text>
+    <rect fill="#fff" height="67.9" id="rect921" rx="4.8" ry="5.5" stroke="#000" stroke-miterlimit="4" stroke-opacity="1" stroke-width="6.6" width="189.8" x="52.4" y="172.5"/>
+    <text fill="#000" font-family="DejaVu Sans Mono" font-size="10.6" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="700" id="text1023" letter-spacing="0" stroke="none" stroke-width=".3" style="-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25;text-align:start" text-anchor="start" word-spacing="0" writing-mode="lr-tb" x="64.1" xml:space="preserve" y="194.1">
+      <tspan id="tspan1021" stroke-width=".3" x="64.1" y="194.1"><tspan id="tspan1019" stroke-width=".3" x="64.1" y="194.1">...</tspan></tspan>
+    </text>
+    <text fill="#000" font-family="DejaVu Sans Mono" font-size="10.6" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="700" id="text973" letter-spacing="0" stroke="none" stroke-width=".3" style="-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25;text-align:start" text-anchor="start" word-spacing="0" writing-mode="lr-tb" x="259.3" xml:space="preserve" y="29.5">
+      <tspan id="tspan862" x="259.3" y="29.5">R₁</tspan>
+    </text>
+    <text fill="#000" font-family="DejaVu Sans Mono" font-size="10.6" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="700" id="text997" letter-spacing="0" stroke="none" stroke-width=".3" style="-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25;text-align:start" text-anchor="start" word-spacing="0" writing-mode="lr-tb" x="238.4" xml:space="preserve" y="76">
+      <tspan id="tspan866" x="238.4" y="76">R₂</tspan>
+    </text>
+    <text fill="#000" font-family="DejaVu Sans Mono" font-size="10.6" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="700" id="text1017" letter-spacing="0" stroke="none" stroke-width=".3" style="-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25;text-align:start" text-anchor="start" word-spacing="0" writing-mode="lr-tb" x="224" xml:space="preserve" y="136.4">
+      <tspan id="tspan868">R₃</tspan>
+    </text>
+    <text fill="#000" font-family="DejaVu Sans Mono" font-size="10.6" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="700" id="text1029" letter-spacing="0" stroke="none" stroke-width=".3" style="-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25;text-align:start" text-anchor="start" word-spacing="0" writing-mode="lr-tb" x="201" xml:space="preserve" y="192.5">
+      <tspan id="tspan1027" stroke-width=".3" x="201" y="192.5"><tspan id="tspan1025" stroke-width=".3" x="201" y="192.5">R...</tspan></tspan>
+    </text>
   </g>
+  <rect fill="#bf4040" height="0" stroke="none" width="0" x="231" y="198"/>
+  <rect height="0" width="0" x="305" y="123" fill="#bf4040" stroke="none"/>
 </svg>
