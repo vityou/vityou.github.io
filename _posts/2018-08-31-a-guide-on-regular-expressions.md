@@ -44,3 +44,9 @@ We are pretty much done now. Copy the new text resulting from the substitution a
 <img src="/assets/obama-regex.png" alt="obama is the only president picture" height="400" style="border:1px solid #000000" />
 
 If you want to do more, you can try to make every link go to obama's link as well, but that is all for now.
+
+Some useful resources:
+
+- [a good overall guide](https://www.regular-expressions.info/)
+- [the wikipedia page](https://en.wikipedia.org/wiki/Regular_expression)
+- [more on the javascript syntax we used](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
