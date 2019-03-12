@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is a blog about various things like computer science and philosophy.
+This is a blog about various things like computer science and math.
 
 You can find the source code for the blog at {% include icon-github.html username="vityou" %} /
 [vityou.github.io](https://github.com/vityou/vityou.github.io)
