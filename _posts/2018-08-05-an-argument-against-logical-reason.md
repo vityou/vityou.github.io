@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "An Argument Against Logical Reasons"
+title:  "Reason and Infinite Regress"
 date:   2018-08-05
 categories: philosophy metaphysics
 comments: true
 ---
-This post encapsulates some of my thoughts on the nature of the metaphysical world, also known as what is "outside" the universe.  These ideas are by no means new, and I don't claim to have independently come up with them.
+This post encapsulates some ideas on the nature of the metaphysical world, also known as what is "outside" the universe.  These ideas are by no means new, and I don't claim to have independently come up with them.
 
 I would like to start off by assuming that everything must have a reason, and point out the illogicality that results.  I will list the premises of the argument and its conclusion, and go into more detail on each:
 
@@ -52,5 +52,3 @@ The reason we can't find the innermost reason is because if we did, the reason i
 
 ### ***Therefore:*** there is no reason the universe exists
 So, what do we know?  Well for one, we know that the universe exists.  And we just showed that there is no reason that the universe exists.  This seems to be a contradiction according to our assumption, and indeed it is.  There is no reason for the universe to exist, and yet it does.  Even worse, it has a bunch of arbitrary constants and laws that have no reason to be there either.  This is why I think that the metaphysical world, or the world that the universe itself exists in, doesn't follow the same rules of reason that we see inside the universe.
-
-Feel free to tell me if I'm wrong about something, or if my entire argument is complete nonsense.  I'm open to any suggestions or counterarguments.
