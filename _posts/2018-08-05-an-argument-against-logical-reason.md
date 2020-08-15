@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reason and Infinite Regress"
+title:  "Reasoning and Infinite Regress"
 date:   2018-08-05
 categories: philosophy metaphysics
 comments: true
