@@ -23,15 +23,9 @@ Let's look at the left hand side of the equation:
 
 $$\int_{a}^{b} d[f(x)]$$
 
-$d[f(x)]$ is just shorthand for $f(x+dx)-f(x)$, so when we evaluate this expression at a certain $x$, it gives us the change in $f(x)$ caused by a change of $dx$ in $x$.  So what would happen if took the value of this expression at every $x$ between $a$ and $b$ and add them all up?  If we add up all of the changes the function goes through, we are pretty much tracing the exact path the function took as it went from $x=a$ to $x=b$.
+$d[f(x)]$ is just shorthand for $f(x+dx)-f(x)$, so when we evaluate this expression at a certain $x$, it gives us the change in $f(x)$ caused by a change of $dx$ in $x$.  So what would happen if took the value of this expression at every $x$ between $a$ and $b$ and add them all up?  We would just be adding up the changes in $f(x)$ between $a$ and $b$, which would be the same as finding the difference in $f(x)$ between $a$ and $b$, a.k.a $f(b)-f(a)$.  Think about it like this: $d[f(x)]$ takes $f(x)$ and breaks it into little incraments.  The $\int$ just adds those incraments back up into the original function, and the $a$ and $b$ in $\int_a^b$ specify where you want to start and stop adding the incraments.
 
-If we assume for the sake of visualization that there are increments of $dx$ on the graph, we can visualize adding the changes like this:
-
-<iframe src="https://www.desmos.com/calculator/huynuacfce?embed" width="700px" height="500px" style="border: 1px solid #ccc" frameborder="0"></iframe>
-
-
-
-Notice that the sum of all of the changes is simply the difference between the endpoints of the graph, that is: $f(b)-f(a)$.  replacing $\int_{a}^{b} d[f(x)]$ with $f(b)-f(a)$, we now have the equation $f(b)-f(a) = \int_{a}^{b} f'(x) dx$.  Remember before we said that $\frac{d[f(x)]}{dx} = f'(x)$, meaning $f'(x)$ is the derivative of $f(x)$.  This means that when we take the integral of a derivative of a function, we can use that function to find the value of the integral, because the integral and derivative "cancel out" in a way.
+Replacing $\int_{a}^{b} d[f(x)]$ with $f(b)-f(a)$, we now have the equation $f(b)-f(a) = \int_{a}^{b} f'(x) dx$.  Remember before we said that $\frac{d[f(x)]}{dx} = f'(x)$, meaning $f'(x)$ is the derivative of $f(x)$.  This means that when we take the integral of a derivative of a function, we can use that function to find the value of the integral, because the integral and derivative "cancel out" in a way.
 
 Here is a brief summary:
 
